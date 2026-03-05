@@ -22,6 +22,10 @@ body{
     background-color: green;
     padding-bottom: 80px;
 }
+.pink{
+    background-color: pink;
+    padding-bottom: 150px;
+}
 .flex{
     display: flex;
 }
