@@ -18,6 +18,10 @@ body{
     background-color:  rgb(255, 255, 0);
     padding-right: 175px;
 }
+.green{
+    background-color: green;
+    padding-bottom: 80px;
+}
 .flex{
     display: flex;
 }
